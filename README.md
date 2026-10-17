@@ -1,16 +1,52 @@
-# React + Vite
+🎮 Hangman Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Hangman Game built using React. This project was created by following a tutorial to learn React fundamentals and practice building an interactive web application.
 
-Currently, two official plugins are available:
+✨ Features
+Guess the hidden word one letter at a time.
+Track correct and incorrect guesses.
+Win or lose based on your guesses.
+Simple and interactive user interface.
+Playable directly in the browser.
+🛠️ Technologies Used
+React.js
+JavaScript
+HTML
+CSS
+🚀 Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Follow these steps to run the project locally.
 
-## React Compiler
+Prerequisites
+Node.js
+npm
+Installation
+Clone the repository:
+git clone YOUR_REPOSITORY_URL
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Navigate to the project folder:
+cd YOUR_PROJECT_FOLDER
 
-## Expanding the ESLint configuration
+Install dependencies:
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Start the development server:
+npm run dev
+
+Open the local URL shown in your terminal in your browser.
+
+Note: The start command may vary depending on your project setup.
+
+📚 What I Learned
+React components and JSX
+Managing state using React Hooks
+Handling user interactions and events
+Updating the UI dynamically
+Building a small interactive game
+🙌 Acknowledgment
+
+This project was built for learning purposes by following a tutorial from my mentor. Thanks to my mentor for the guidance and for helping me practice React development.
+
+👨‍💻 Author
+
+Aditya
